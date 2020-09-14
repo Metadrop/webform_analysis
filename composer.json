@@ -1,0 +1,16 @@
+{
+  "name": "drupal/webform_analysis",
+  "description": "Enables to obtain statistics on the results of form submissions.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/webform_analysis",
+  "notification-url": "https://packages.drupal.org/8/downloads",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Laurent BARAN (lbaran)",
+      "homepage": "https://www.drupal.org/u/lbaran",
+      "role": "Maintainer"
+    }
+  ]
+}
